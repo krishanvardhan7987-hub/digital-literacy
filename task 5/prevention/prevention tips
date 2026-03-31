@@ -1,0 +1,79 @@
+# Task 5 — UPI Fraud Prevention Tips
+
+**Student:** Krishan Vardhan Agrawal | Reg. No: 25BAI11584
+**Course:** Digital Literacy | VIT Bhopal
+
+---
+
+## The one thing worth remembering above everything else
+
+> **You never need to enter your UPI PIN to receive money.**
+
+That's it. That one fact stops most UPI scams cold. If someone is asking you to enter your PIN to "accept" or "receive" a payment — it's fraud. End the call, close the app, block the number.
+
+---
+
+## 10 things that actually help
+
+**1. Know what your PIN does**
+Your UPI PIN authorises money leaving your account. Full stop. It is never required for incoming transfers. This isn't a rule that has exceptions — it is always true.
+
+**2. No legitimate organisation will ever ask for your PIN or OTP**
+Banks don't ask. Payment apps don't ask. Customer care representatives don't ask. If someone on a call asks for either of these, hang up. It doesn't matter how official they sound.
+
+**3. Read collect requests before doing anything with them**
+Before you tap anything on a UPI collect request, check who sent it, how much it's for, and whether the reason makes sense. If something feels off — reject it. You can always ask the sender to try again if it was genuine.
+
+**4. Verify cashback and refund claims yourself**
+If you're told you have a pending cashback or refund, open the actual app or website yourself and check. Don't act on information from an inbound call or message. Legitimate refunds don't require you to do anything unusual.
+
+**5. Don't click links sent via SMS or WhatsApp claiming to be from a bank or payment app**
+These links often look identical to the real thing. Always go directly to your bank's official app — never through a link someone sent you.
+
+**6. Never screen share during a call related to money**
+This is a newer tactic — fraudsters ask to "verify your account" or "help you with a refund" while watching your screen in real time. They can see your OTPs, app activity, everything.
+
+**7. Set a daily UPI transaction limit**
+Most UPI apps let you cap how much can be sent per day. Setting a reasonable limit means that even if something goes wrong, there's a ceiling on the damage.
+
+**8. Lock your payment apps separately**
+Use biometric or PIN lock on your UPI apps specifically, not just your phone lock. Turn on instant transaction notifications so you know the moment anything goes out.
+
+**9. Treat urgency as a warning sign**
+Legitimate payments and refunds are never time-pressured. If someone is telling you to "act now before the offer expires" or "try again quickly because of a technical error" — that urgency is manufactured. It's designed to stop you thinking clearly.
+
+**10. Report it, don't hide it**
+If you've been scammed, tell someone and report it immediately. A lot of people don't report because they're embarrassed. But reporting quickly is the only real chance of recovering anything — and it also helps stop the same person from doing it to someone else.
+
+---
+
+## Scams to recognise on sight
+
+| The setup | The red flag | What to do |
+|-----------|-------------|------------|
+| "Accept this cashback on UPI" | PIN needed to receive = sending, not receiving | Reject. Block. Report. |
+| Customer care calls about a failed transaction | Asks for OTP or PIN | Hang up. Call your bank directly using the number on their website. |
+| "Send ₹1 to verify your account" | Legitimate services never ask you to send money first | Refuse. Always. |
+| Someone sends you ₹1 and asks you to "return ₹1000 by mistake" | Classic trick — the ₹1 never actually arrives | Don't send anything. Block. |
+| QR code sent to "receive" payment | Scanning a QR to receive money doesn't require a PIN | Question the logic. Then reject. |
+
+---
+
+## Quick reference
+
+```
+Receiving money  →  No PIN needed. Ever.
+Entering PIN to receive = you are actually sending.
+
+OTP shared = someone else has access to your account.
+
+Cashback/refund claim? Verify it yourself in the actual app.
+
+Something feels wrong? Stop. Don't continue. Think first.
+
+Got scammed? → Call 1930 | cybercrime.gov.in | Your bank
+```
+
+---
+
+> *"One habit — knowing you never need a PIN to receive money — prevents more UPI fraud than any app or security software ever could."*

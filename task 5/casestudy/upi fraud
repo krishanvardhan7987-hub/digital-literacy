@@ -1,0 +1,108 @@
+# Task 5 — Cybercrime Case Study: UPI Phishing Fraud
+
+**Student:** Krishan Vardhan Agrawal | Reg. No: 25BAI11584
+**Course:** Digital Literacy | VIT Bhopal
+
+---
+
+## Why I picked this topic
+
+UPI fraud is everywhere right now — almost everyone I know has either been targeted or knows someone who was. It's also one of those crimes where the victim often gets blamed for "not being careful enough," which I think is unfair. The scams are genuinely well-designed. Understanding how they work is the first step to not falling for them.
+
+---
+
+## Background: How big is UPI in India?
+
+UPI has become the default way most people in India send and receive money. As of 2024, it processes over 10 billion transactions every month. That scale is impressive — but it also means there's an enormous pool of users, many of whom don't fully understand the mechanics of how the system works. Fraudsters know this and specifically target that gap.
+
+---
+
+## The Incident
+
+This is based on a real type of scam that has been widely reported. The victim in this case was a college student in Madhya Pradesh.
+
+### How it happened
+
+A message arrived on WhatsApp from an unknown number. The message said the student had a ₹5,000 cashback pending from a recent online order and just needed to "accept" the payment via UPI.
+
+The student opened their UPI app and saw what looked like an incoming payment notification — a collect request. It looked like money coming in.
+
+Then the fraudster called. They were calm, friendly, and walked the student through the steps: "Just tap accept and enter your PIN to receive the amount." The student did exactly that.
+
+What they didn't know — and what the fraudster was counting on — was that entering your UPI PIN on a collect request doesn't accept incoming money. It authorises an outgoing payment. The ₹5,000 left their account instantly.
+
+The fraudster called again. "There was a technical error, please try once more." The student, confused and flustered, tried again. Another ₹3,000 gone.
+
+**Total lost: ₹8,000**
+
+---
+
+## Why this worked
+
+The scam didn't exploit any technical flaw in UPI. The UPI system worked exactly as designed. What was exploited was the student's understanding of how the system works — specifically, one single misconception: that you need to enter a PIN to receive money.
+
+You don't. You never do. Receiving money on UPI requires nothing from you. The moment someone asks you to enter your PIN to "accept" a payment, it's a scam.
+
+Here's the psychological side of it:
+
+| What the fraudster did | Why it worked |
+|------------------------|---------------|
+| Promised free money (cashback) | Lowered the victim's guard — who questions free money? |
+| Called and talked them through it | Creates trust, removes time to think |
+| Used urgency — "technical error, try again" | Stops the victim from pausing and questioning |
+| Framed PIN entry as "receiving" | Exploited a genuine knowledge gap |
+
+---
+
+## The technical bit — how collect requests work
+
+```
+Fraudster sends a Collect Request via UPI
+         ↓
+Victim sees it as an "incoming payment" notification
+         ↓
+Victim enters UPI PIN thinking they're accepting money
+         ↓
+PIN authorises a debit — money leaves victim's account
+         ↓
+Transaction completes in seconds, irreversible
+```
+
+The one fact that would have stopped this entirely: **a UPI PIN is only ever used to send money or authorise a payment leaving your account. Never to receive.**
+
+---
+
+## Legal side
+
+| Law | What it covers |
+|-----|---------------|
+| IT Act 2000, Section 66D | Cheating by impersonation using digital means — up to 3 years imprisonment |
+| IPC Section 420 | Cheating and dishonestly inducing delivery of property |
+| IPC Section 419 | Cheating by personation |
+| RBI Guidelines | Zero liability for customer if fraud is reported within 3 working days |
+
+---
+
+## How to report if it happens
+
+1. Call your bank immediately — ask them to raise a dispute on the transaction
+2. File a complaint at [cybercrime.gov.in](https://cybercrime.gov.in)
+3. Call the National Cyber Crime Helpline: **1930**
+4. File an FIR at your nearest police station
+5. Report the number/UPI ID to your payment app
+
+Don't wait. The faster you report, the better the chance of any recovery.
+
+---
+
+## What I actually took away from this
+
+The student in this case had "heard about UPI scams" before. That's the frustrating part. Awareness alone clearly isn't enough. In the moment — phone call, social pressure, a real UPI notification on screen — the knowledge didn't kick in fast enough.
+
+That's the real lesson I took from this. Knowing that scams exist and knowing exactly how they work are two different things. And even knowing how they work isn't enough if you've never thought through what you would actually do in that moment.
+
+Proper digital literacy isn't just information. It's internalised habits. The habit here is one sentence: *"I never need a PIN to receive money."* If that's automatic, the scam fails every time.
+
+---
+
+> *"The most effective cyberattacks don't need to break any code. They just need to catch you in a moment of confusion."*
